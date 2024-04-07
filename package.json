@@ -1,0 +1,16 @@
+{
+  "name": "import-meta",
+  "version": "1.0.0",
+  "description": "Babel plugin, transform import.meta.",
+  "main": "./index.js",
+  "author": "mustapha.wang",
+  "license": "MIT",
+  "keywords": [
+    "6to5",
+    "babel",
+    "import.meta",
+    "resolve",
+    "es5",
+    "es6"
+  ]
+}
